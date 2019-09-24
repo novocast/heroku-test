@@ -1,0 +1,17 @@
+_engine/config.php
+m/_engine/config.php
+m/_files/cache/albumart/*
+node_modules
+vendor
+uploads
+signage-templates
+cache
+.eslintrc.json
+.vscode/launch.json
+images
+thisWeek.csv
+dist
+*.env
+.vscode
+albumart/
+!assets/images
