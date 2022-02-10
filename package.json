@@ -12,7 +12,7 @@
     "jest": "^22.4.3",
     "laravel-mix": "^2.1.14",
     "moment": "^2.20.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "normalize.css": "^7.0.0",
     "pell": "^1.0.4",
     "photoeditorsdk": "^4.19.0",
